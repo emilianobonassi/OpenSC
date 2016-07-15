@@ -2,3 +2,11 @@ OpenSC documentation wiki is available online at
 	http://www.opensc-project.org/opensc/
 
 Please take a look at the documentation before trying to use OpenSC.
+
+## Build and install on Ubuntu (or Debian-like)
+
+```
+./install_deps.sh
+./build.sh
+./install.sh
+```
